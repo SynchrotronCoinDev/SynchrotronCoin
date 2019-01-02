@@ -8,7 +8,6 @@ add the following lines to your .conf file:
 
         rpcuser=yourusername   
         rpcpassword=yourpassword 
-        rpcport=22222
         server=1
 
 3. Download CPU Miner, for Windows you can use for example this one : https://github.com/tpruvot/cpuminer-multi/releases/download/v1.3.1-multi/cpuminer-multi-rel1.3.1-x64.zip
