@@ -79,6 +79,6 @@ cp *.h miniupnpc/
 SynchrotronCoin
 -------
 DOS prompt:
-cd \blackcoin\src
+cd \synchrotroncoin\src
 mingw32-make -f makefile.mingw
-strip blackcoind.exe
+strip synchrotroncoind.exe
