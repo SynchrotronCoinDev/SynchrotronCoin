@@ -1,6 +1,6 @@
 TEMPLATE = app
 TARGET = SynchrotronCoinV2-Qt
-VERSION = 2.3.0.0
+VERSION = 2.4.0.0
 INCLUDEPATH += src src/json src/qt
 QT += network
 DEFINES += ENABLE_WALLET
